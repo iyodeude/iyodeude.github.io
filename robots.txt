@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyodeude.github.io/Cnf/sitemap_index.txt
+Sitemap: https://iyodeude.github.io/FUh/sitemap_index.txt
+Sitemap: https://iyodeude.github.io/ZQx/sitemap_index.txt
+Sitemap: https://iyodeude.github.io/sqr/sitemap_index.txt
